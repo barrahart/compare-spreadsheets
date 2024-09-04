@@ -8,7 +8,7 @@ files (paths specified at prompt) and puts all missing ID cells in a third file
 
 ## Requires
 
-[Python](https://www.python.org/downloads/ 'Download Python' target="_blank")
+[Python](<a href="https://www.python.org/downloads/" title="Download Python" target="_blank"></a>)
 
 
 ## Run
